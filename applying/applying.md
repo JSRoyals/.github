@@ -1,4 +1,4 @@
-<h1 align="center">JS<img src="https://avatars.githubusercontent.com/u/109735610?s=200&v=4" height=40>Royals</h1>
+<h1 align="center">JS<img src="https://avatars.githubusercontent.com/u/109771956?s=200&v=4" height=40>Royals</h1>
 
 <p align="center">So you think you have what it takes to join this amazing organization of JavaScript developers? Well then, gather your wits, projects, and skills, and follow this guide to becoming an official JSRoyals member!</p>
 
